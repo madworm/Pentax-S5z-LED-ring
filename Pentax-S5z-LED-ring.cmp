@@ -1,0 +1,227 @@
+Cmp-Mod V01 Created by PcbNew date = Mon 08 Apr 2013 09:26:45 PM CEST
+
+BeginCmp
+TimeStamp = /516317A0;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516317AF;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516317BC;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516317C2;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631892;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631898;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /5163189E;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318A4;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318C2;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318C8;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318CE;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318D4;
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318F2;
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318F8;
+Reference = D14;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318FE;
+Reference = D15;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631904;
+Reference = D16;
+ValeurCmp = LED;
+IdModule  = MADW__PLCC2-3528;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631844;
+Reference = R1;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631853;
+Reference = R2;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631862;
+Reference = R3;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631871;
+Reference = R4;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318AA;
+Reference = R5;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318B0;
+Reference = R6;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318B6;
+Reference = R7;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318BC;
+Reference = R8;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318DA;
+Reference = R9;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318E0;
+Reference = R10;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318E6;
+Reference = R11;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516318EC;
+Reference = R12;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5163190A;
+Reference = R13;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631910;
+Reference = R14;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51631916;
+Reference = R15;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5163191C;
+Reference = R16;
+ValeurCmp = 10R;
+IdModule  = MADW__R0805;
+EndCmp
+
+EndListe
