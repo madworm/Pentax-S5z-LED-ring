@@ -4,7 +4,7 @@ Pentax-S5z-LED-ring
 
 LAYOUT FILES: LED ring for my old Pentax S5z digital camera.
 
-The center-hole diameter is 33.7mm and the board slides right over the extended objective.
+The center-hole diameter is 28mm and the board slides right over the extended objective.
 
 ---
 
