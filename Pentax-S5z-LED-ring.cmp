@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-04-07 BZR 4075)-testing date = Tue 09 Apr 2013 03:18:08 PM CEST
+Cmp-Mod V01 Created by CvPcb (2013-04-07 BZR 4075)-testing date = Tue 09 Apr 2013 06:31:23 PM CEST
 
 BeginCmp
 TimeStamp = /516317A0;
@@ -122,8 +122,8 @@ EndCmp
 BeginCmp
 TimeStamp = /5164175A;
 Reference = JP1;
-ValeurCmp = MADW__AVR_ISP;
-IdModule  = pin_array_3x2;
+ValeurCmp = ISP;
+IdModule  = MADW__PIN_ARRAY_3x2_2mm;
 EndCmp
 
 BeginCmp
@@ -263,14 +263,14 @@ BeginCmp
 TimeStamp = /5164146F;
 Reference = SW1;
 ValeurCmp = SW_PUSH;
-IdModule  = SIL-2;
+IdModule  = MADW__push-button-SMD-3.7x6.0;
 EndCmp
 
 BeginCmp
 TimeStamp = /5164147E;
 Reference = SW2;
 ValeurCmp = SW_PUSH;
-IdModule  = SIL-2;
+IdModule  = MADW__push-button-SMD-3.7x6.0;
 EndCmp
 
 EndListe
