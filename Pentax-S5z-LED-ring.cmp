@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew date = Mon 08 Apr 2013 09:26:45 PM CEST
+Cmp-Mod V01 Created by CvPcb (2013-04-07 BZR 4075)-testing date = Tue 09 Apr 2013 03:18:08 PM CEST
 
 BeginCmp
 TimeStamp = /516317A0;
@@ -113,9 +113,30 @@ IdModule  = MADW__PLCC2-3528;
 EndCmp
 
 BeginCmp
+TimeStamp = /51640F05;
+Reference = IC1;
+ValeurCmp = ATTINY13-S;
+IdModule  = MADW__SO8_200mil_wide;
+EndCmp
+
+BeginCmp
+TimeStamp = /5164175A;
+Reference = JP1;
+ValeurCmp = MADW__AVR_ISP;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51640F6E;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
 TimeStamp = /51631844;
 Reference = R1;
-ValeurCmp = 10R;
+ValeurCmp = 60R;
 IdModule  = MADW__R0805;
 EndCmp
 
@@ -222,6 +243,34 @@ TimeStamp = /5163191C;
 Reference = R16;
 ValeurCmp = 10R;
 IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51640F23;
+Reference = R17;
+ValeurCmp = 150R;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51640F32;
+Reference = R18;
+ValeurCmp = 100k;
+IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5164146F;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5164147E;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = SIL-2;
 EndCmp
 
 EndListe
