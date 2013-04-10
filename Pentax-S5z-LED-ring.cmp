@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-04-07 BZR 4075)-testing date = Wed 10 Apr 2013 12:16:31 AM CEST
+Cmp-Mod V01 Created by CvPcb (2013-04-07 BZR 4075)-testing date = Wed 10 Apr 2013 07:37:48 PM CEST
 
 BeginCmp
 TimeStamp = /516492F3;
@@ -292,6 +292,20 @@ TimeStamp = /51640F32;
 Reference = R18;
 ValeurCmp = 100k;
 IdModule  = MADW__R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5165A46F;
+Reference = R19;
+ValeurCmp = 1k;
+IdModule  = MADW__R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5165A47E;
+Reference = R20;
+ValeurCmp = 1k;
+IdModule  = MADW__R0603;
 EndCmp
 
 BeginCmp
