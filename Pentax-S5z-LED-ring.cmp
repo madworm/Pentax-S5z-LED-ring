@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-04-07 BZR 4075)-testing date = Wed 10 Apr 2013 07:37:48 PM CEST
+Cmp-Mod V01 Created by PcbNew date = Fri 03 May 2013 02:09:29 PM CEST
 
 BeginCmp
 TimeStamp = /516492F3;
@@ -165,118 +165,118 @@ BeginCmp
 TimeStamp = /51640F6E;
 Reference = Q1;
 ValeurCmp = MOSFET_N;
-IdModule  = SOT23;
+IdModule  = -SOT23C;
 EndCmp
 
 BeginCmp
 TimeStamp = /51631844;
 Reference = R1;
-ValeurCmp = 60R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /51631853;
 Reference = R2;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /51631862;
 Reference = R3;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /51631871;
 Reference = R4;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /516318AA;
 Reference = R5;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /516318B0;
 Reference = R6;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /516318B6;
 Reference = R7;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /516318BC;
 Reference = R8;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /516318DA;
 Reference = R9;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /516318E0;
 Reference = R10;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /516318E6;
 Reference = R11;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /516318EC;
 Reference = R12;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /5163190A;
 Reference = R13;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /51631910;
 Reference = R14;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /51631916;
 Reference = R15;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /5163191C;
 Reference = R16;
-ValeurCmp = 10R;
+ValeurCmp = 68R;
 IdModule  = MADW__R0805;
 EndCmp
 
