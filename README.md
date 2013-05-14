@@ -6,9 +6,9 @@ LAYOUT FILES: LED ring for my old Pentax S5z digital camera.
 
 The center-hole diameter is 28mm and the board slides right over the extended objective.
 
-[![Pentax-S5z-LED-ring](https://github.com/madworm/Pentax-S5z-LED-ring/raw/master/Docs/pcb.jpg)](https://github.com/madworm/Pentax-S5z-LED-ring/blob/master/Docs/pcb.jpg)
+[![Pentax-S5z-LED-ring](/Docs/pcb.jpg)](/Docs/pcb.jpg)
 
-[![Pentax-S5z-LED-ring](https://github.com/madworm/Pentax-S5z-LED-ring/raw/master/Docs/lights_on.jpg)](https://github.com/madworm/Pentax-S5z-LED-ring/blob/master/Docs/lights_on.jpg)
+[![Pentax-S5z-LED-ring](/Docs/lights_on.jpg)](/Docs/lights_on.jpg)
 
 
 ---
