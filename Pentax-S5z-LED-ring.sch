@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Mon 29 Apr 2013 02:40:01 AM CEST
+EESchema Schematic File Version 2
 LIBS:my_parts
 LIBS:power
 LIBS:device
@@ -37,8 +37,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Pentax S5z LED ring"
-Date "29 apr 2013"
-Rev "1.0"
+Date "13 Dec 2013"
+Rev "1.01"
 Comp "2013 - blog.spitzenpfeil.org"
 Comment1 ""
 Comment2 ""
@@ -528,17 +528,6 @@ Wire Wire Line
 	9000 2100 9000 2200
 Connection ~ 9000 2200
 $Comp
-L ATTINY13-S IC1
-U 1 1 51640F05
-P 3150 3550
-F 0 "IC1" H 3250 3600 60  0000 C CNN
-F 1 "ATTINY13-S" H 4450 2800 60  0000 C CNN
-F 2 "SO8-200" H 3400 2800 60  0001 C CNN
-F 3 "" H 3150 3550 60  0000 C CNN
-	1    3150 3550
-	1    0    0    -1  
-$EndComp
-$Comp
 L R R17
 U 1 1 51640F23
 P 6000 4450
@@ -939,4 +928,17 @@ Wire Wire Line
 Connection ~ 1500 4650
 Text Notes 4000 1550 0    60   ~ 0
 WW: 3.29V @ 26mA  - 25mA --> 68R (5V)\n  W: 3.19V @ 28mA - 25mA  -->  68R (5V)
+$Comp
+L MADW__ATTINY13-MM IC1
+U 1 1 52AB21C7
+P 3950 3900
+F 0 "IC1" H 3250 4300 60  0000 C CNN
+F 1 "MADW__ATTINY13-MM" H 4300 3500 60  0000 C CNN
+F 2 "MADW__MLF10" H 3450 3500 60  0000 C CNN
+F 3 "" H 3150 4250 60  0000 C CNN
+	1    3950 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 4050 4950 4150
 $EndSCHEMATC
